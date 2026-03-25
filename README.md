@@ -52,8 +52,13 @@ SubStream eliminates middle-men in the creator economy by using smart contracts 
 - [x] **Mobile Responsive**: Fully optimized for all screen sizes.
 - [x] **Meaningful Commits**: 9 meaningful commits pushed.
 
-### 🔗 Reference Links
-- **Live Demo**: [substream-durvesh452.vercel.app](https://substream-durvesh452.vercel.app) *(To activate: Connect the repository to Vercel)*
+### 🔗 Deployment & Demo
+- **Live Demo**: [🚀 Deploy to Vercel](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDurvesh452%2Fsubstream)
+- **Local Preview**: `npm run dev` (Running at http://localhost:3000)
+
+> [!IMPORTANT]
+> To see the live demo, you must first click the **Deploy to Vercel** button above or connect your GitHub repository to your Vercel account. The 404 error occurs if the project hasn't been deployed yet.
+
 - **GitHub Repository**: [github.com/Durvesh452/substream](https://github.com/Durvesh452/substream)
 
 ### 📸 Visuals
