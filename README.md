@@ -53,12 +53,18 @@ SubStream eliminates middle-men in the creator economy by using smart contracts 
 - [x] **Meaningful Commits**: 9 meaningful commits pushed.
 
 ### 🔗 Reference Links
-- **Live Demo**: [substream-stellar.vercel.app](https://substream-stellar.vercel.app) *(Deploy this repo to Vercel to activate)*
+- **Live Demo**: [substream-durvesh452.vercel.app](https://substream-durvesh452.vercel.app) *(To activate: Connect the repository to Vercel)*
 - **GitHub Repository**: [github.com/Durvesh452/substream](https://github.com/Durvesh452/substream)
 
 ### 📸 Visuals
-- [Screenshot: Desktop Dashboard](public/next.svg) *(Mock placeholder)*
-- [Screenshot: Mobile View](public/window.svg) *(Mock placeholder)*
+![Desktop Dashboard](public/screenshots/dashboard.png)
+*Full application portal with glassmorphism dashboard.*
+
+![Membership Pass](public/screenshots/nft_pass.png)
+*Interactive holographic NFT Membership Pass.*
+
+![Landing Page Hero](public/screenshots/hero.png)
+*Premium dark-themed Landing Page.*
 
 ### 📜 Contract Addresses
 - **SubToken**: `CC7...SUBTOKEN`
