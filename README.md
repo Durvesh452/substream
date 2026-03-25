@@ -4,7 +4,7 @@
 
 ![SubStream Banner](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&q=80&w=2000)
 
-[![CI/CD Status](https://github.com/user/substream/actions/workflows/main.yml/badge.svg)](https://github.com/user/substream/actions)
+[![CI/CD Status](https://github.com/Durvesh452/substream/actions/workflows/main.yml/badge.svg)](https://github.com/Durvesh452/substream/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 SubStream is a decentralized subscription platform built on **Stellar / Soroban**. It empowers creators to launch membership plans backed by custom tokens (SUB) and manage access through programmatic NFT passes.
@@ -50,11 +50,11 @@ SubStream eliminates middle-men in the creator economy by using smart contracts 
 - [x] **Custom token**: `SubToken` (SUB) contract deployed/defined.
 - [x] **CI/CD**: Active pipeline in `.github/workflows/main.yml`.
 - [x] **Mobile Responsive**: Fully optimized for all screen sizes.
-- [x] **Meaningful Commits**: 8+ structured commits.
+- [x] **Meaningful Commits**: 9 meaningful commits pushed.
 
 ### 🔗 Reference Links
-- **Live Demo**: [substream-stellar.vercel.app](https://substream-stellar.vercel.app) *(Placeholder)*
-- **GitHub Repository**: [github.com/user/substream](https://github.com/user/substream)
+- **Live Demo**: [substream-stellar.vercel.app](https://substream-stellar.vercel.app) *(Deploy this repo to Vercel to activate)*
+- **GitHub Repository**: [github.com/Durvesh452/substream](https://github.com/Durvesh452/substream)
 
 ### 📸 Visuals
 - [Screenshot: Desktop Dashboard](public/next.svg) *(Mock placeholder)*
