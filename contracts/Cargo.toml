@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "subtoken",
+    "accesspass",
+    "sub_manager",
+]
+
+[workspace.dependencies]
+soroban-sdk = "20.0.0"
