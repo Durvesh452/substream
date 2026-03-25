@@ -3,7 +3,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
-import { Rocket, ShieldBox, Users, RefreshCw, ChevronRight, Play } from 'lucide-react';
+import { Rocket, Shield, Users, RefreshCw, ChevronRight, Play } from 'lucide-react';
 import { Button, GlassCard, Badge } from '@/components/ui';
 
 export default function LandingPage() {
@@ -23,7 +23,7 @@ export default function LandingPage() {
     {
       title: 'On-Chain Access',
       description: 'Exclusive NFT-style membership passes grant automated on-chain access.',
-      icon: <ShieldBox className="w-6 h-6 text-blue-400" />,
+      icon: <Shield className="w-6 h-6 text-blue-400" />,
       badge: 'Secure'
     },
     {
